@@ -1,2 +1,8 @@
 # To-Do-List-
 hey ! .. this is my very basic mini project using HTML CSS JS only...
+
+# Teacher
+Raj
+
+# Student
+Pratham
